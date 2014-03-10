@@ -1,0 +1,10 @@
+{
+	"contacts": [
+                        { "Name":"Jack Johnson" , "Address":"jack.johnson@fake.com"}, 
+                        { "Name":"Kack Keihls" , "Address":"kack.keihls@fake.com"}, 
+                        { "Name":"Lack Lamont" , "Address":"lack.lamont@fake.com"},
+                        { "Name":"Mack McPherson" , "Address":"mack.mcpherson@fake.com"}, 
+                        { "Name":"Nack Norris" , "Address":"nack.norris@fake.com"}, 
+                        { "Name":"Oack Otis" , "Address":"oack.otis@fake.com"}
+	]
+}
